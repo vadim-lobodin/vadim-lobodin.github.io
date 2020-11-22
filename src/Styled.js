@@ -60,7 +60,7 @@ export const Btn = styled.button`
 
 ${props => props.size ==="sm" && css` 
     font-size: 14px;
-    padding: ${space[3]}px ${space[3]}px;
+    padding: ${space[4]}px ${space[3]}px;
 `}
 
 ${props => props.size ==="lg" && css` 
