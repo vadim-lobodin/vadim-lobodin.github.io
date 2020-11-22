@@ -1,6 +1,6 @@
 import styled, {css} from 'styled-components';
 
-//Utilities
+
 
 export const colors = {
     arrivalBlue1000: '#0C62F3',
